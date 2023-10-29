@@ -1,0 +1,10 @@
+META-INF/CompilerHints
+META-INF/BenchmarkList
+uk/ac/ic/doc/spe/jmh_generated/MyBenchmark_jmhType_B3.class
+uk/ac/ic/doc/spe/jmh_generated/MyBenchmark_jmhType_B1.class
+uk/ac/ic/doc/spe/MyBenchmark.class
+uk/ac/ic/doc/spe/jmh_generated/MyBenchmark_splitOnBenchmark_jmhTest.class
+uk/ac/ic/doc/spe/MyStandardTableSliceGroup$ByteArray.class
+uk/ac/ic/doc/spe/jmh_generated/MyBenchmark_jmhType.class
+uk/ac/ic/doc/spe/MyStandardTableSliceGroup.class
+uk/ac/ic/doc/spe/jmh_generated/MyBenchmark_jmhType_B2.class

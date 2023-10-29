@@ -1,0 +1,1 @@
+/usr/bin/c++ -O2 -g -DNDEBUG CMakeFiles/BTrees.dir/BTrees.cpp.o CMakeFiles/BTrees.dir/Main.cpp.o -o BTrees  /home/rushil/Year3/term2-notes/sys-perf/playground/BTrees/libittnotify.a -ldl 

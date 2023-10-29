@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+add_executable(BTrees BTrees.cpp Main.cpp)
+target_link_libraries(BTrees ${Project_SOURCE_DIR}/libittnotify.a)
+target_link_libraries(BTrees dl)
+set_property(TARGET BTrees PROPERTY CXX_STANDARD 17)

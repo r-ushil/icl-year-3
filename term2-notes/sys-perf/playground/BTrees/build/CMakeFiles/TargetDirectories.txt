@@ -1,0 +1,3 @@
+/home/rushil/Year3/term2-notes/sys-perf/playground/BTrees/build/CMakeFiles/BTrees.dir
+/home/rushil/Year3/term2-notes/sys-perf/playground/BTrees/build/CMakeFiles/edit_cache.dir
+/home/rushil/Year3/term2-notes/sys-perf/playground/BTrees/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,16 @@
+{
+	"name": "Introduction to ML: CW2",
+	"build": {
+		"context": "..",
+		"dockerfile": "../Dockerfile",
+		"target": "base"
+	},
+	"postCreateCommand": "pip install --user -r requirements.txt",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-python.python"
+			]
+		}
+	}
+}
